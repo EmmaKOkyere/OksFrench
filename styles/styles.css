@@ -3,7 +3,12 @@ body {
     background-color: rgb(167, 226, 207);
     margin: 0px;
     padding: 0%;
-    width: 100%px;
+    width: 100%;
+}
+@media only screen and (max-width:600px) {
+    body{
+        width: 100%;
+    }
 }
 
 div {
