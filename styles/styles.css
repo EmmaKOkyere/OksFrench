@@ -20,9 +20,9 @@ div {
 
 .text-position {
     display: flex;
-    justify-content: right;
+    justify-items: right;
     word-spacing: 1px;
-    margin-left: 1000px;
+    margin-left: 1000%;
 }
 
 h2 {
